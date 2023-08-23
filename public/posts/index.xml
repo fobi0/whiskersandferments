@@ -1,23 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on Whiskers and Ferments</title>
-    <link>http://whiskersandferments.com/posts/</link>
-    <description>Recent content in Posts on Whiskers and Ferments</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 22 Aug 2023 23:30:29 +0200</lastBuildDate><atom:link href="http://whiskersandferments.com/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hello World</title>
-      <link>http://whiskersandferments.com/posts/init-post/</link>
-      <pubDate>Tue, 22 Aug 2023 23:30:29 +0200</pubDate>
-      
-      <guid>http://whiskersandferments.com/posts/init-post/</guid>
-      <description>Hello! You catched me in my natural habitat!
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Whiskers and Ferments</title><link>http://www.whiskersandferments.com/posts/</link><description>Recent content in Posts on Whiskers and Ferments</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 22 Aug 2023 23:30:29 +0200</lastBuildDate><atom:link href="http://www.whiskersandferments.com/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello World</title><link>http://www.whiskersandferments.com/posts/init-post/</link><pubDate>Tue, 22 Aug 2023 23:30:29 +0200</pubDate><guid>http://www.whiskersandferments.com/posts/init-post/</guid><description>Hello! You catched me in my natural habitat!
 Welcome to this small blog.
 if you are new here then I probably sent you the link I guess. Anyways.. welcome here and great that you visit :)
-This website is meant to be mostly for me to have an easy and quick option to save and share my ideas, recipes and experiments with the world. So don&amp;rsquo;t be confused. It can get weirdly and confusing here, since I don&amp;rsquo;t really have an idea of what I am doing here either.</description>
-    </item>
-    
-  </channel>
-</rss>
+This website is meant to be mostly for me to have an easy and quick option to save and share my ideas, recipes and experiments with the world. So don&amp;rsquo;t be confused. It can get weirdly and confusing here, since I don&amp;rsquo;t really have an idea of what I am doing here either.</description></item></channel></rss>
