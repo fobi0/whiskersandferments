@@ -31,3 +31,6 @@ The measurements are based on the amount of dough you are making. For 2 servings
 |*For Decorations:*||||
 | Spring onion    | 10%        | 20g ||
 | Sesame seeds    | 5%        | 10g ||
+| *For the Sauce:* ||||
+| Soy Sauce | 30% | 60g ||
+| Chinese Malt Vinegar | 20% | 40g ||
