@@ -1,6 +1,6 @@
 ---
 title: "Biang Biang Noodles"
-date: 2023-08-23T10:38:29+02:00
+date: 2023-08-22
 draft: false
 tags: ["food","chinese","vegetarian","vegan","biangbiang"]
 image: "biangbiang.jpeg"
