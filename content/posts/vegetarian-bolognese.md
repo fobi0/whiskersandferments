@@ -3,7 +3,7 @@ title: "Vegan Bolognese"
 date: 2023-08-22
 draft: false
 tags: ["food","italian","vegetarian","vegan","bolognese"]
-image: ""
+image: "vegan-bolognese.jpg"
 ---
 
 
@@ -16,7 +16,7 @@ For two people I recommend around 150-200g of mushrooms to start. The recipe is 
 |--------------|-----------|----------------|-------|
 | *For the "Meat":*|||
 | Button Mushrooms | 100%      | 200g       | Grate them rough|
-| Tofu             | 30%       | 60g        | Crush them with your hand to fine pieces|
+| Tofu             | 60%       | 120g        | Crush them with your hand to fine pieces|
 | Carrots          | 60%       | 120g       | Grate them rough|
 | Vegetable oil    | 20%       | 40g        ||
 |||| Fry all the above ingredients in oil for at least 5 minutes. They should develop a crust and a lot of flavor|
@@ -25,7 +25,7 @@ For two people I recommend around 150-200g of mushrooms to start. The recipe is 
 | Celery           | 40%       | 80g        | Dice |
 | Onion            | 40%       | 80g        | Dice |
 | Carrots          | 40%       | 80g        | Dice |
-| Vegetable oil    | 10%       | 20g        | Fry the three ingredients in a new Pot to get the amazin Sofritto as a base for this dish. Make sure everything is cooked well (should take 3-5min)|
+| Vegetable oil    | 10%       | 20g        | Fry the three ingredients in a new Pot to get the amazing Sofritto as a base for this dish. Make sure everything is cooked well (should take 5-76min)|
 | Garlic           | 5%        | 10g        | Grate finely and add to the Pot|
 | Oregano          | 2%        | 4g         | Add it to the Pot together with the "meat mixture" from before and let it|
 | Red Wine         | 100%      | 200g       | Pour over the Wine and let it simmer for a few minutes.|
