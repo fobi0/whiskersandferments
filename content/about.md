@@ -2,6 +2,7 @@
 title: "It's me"
 date: 2023-08-22T23:30:29+02:00
 draft: false
+image: "me.jpg"
 ---
 Hey there, fellow food explorers and digital wanderers! It's me! By day, I'm the tech guy, and by night, I'm trying my best to work with the magic of culinary experiences in my kitchen!
 
