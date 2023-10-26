@@ -24,7 +24,6 @@ We already had the beetroot sashimi in an earlier post. This time we are using y
 | vegetable oil | 4% | 20g ||
 ||||Mix all the ingredients till the sugar and salt is dissolved. We are doing kind of an vinaigrette here|
 |||| Cut the Beets in thin slices. We will not dry them this time, so you can make them as thin as you want them later in the process |
-|||| Add the pieces to a jar and pour the brine over it. Make sure every beetroot is covered with the brine. Leave it in the fridge for 3-5days.|
-|||| After the curing process, pour away the liquid ( you can use it as a dipping sauce or as a flavor bomb for noodles or stir fry if you don't want to waste it). Then place the beets on a rack and dry them at 55°C for around 3-7hours depending on the size and water content of the beets. The beets should be chewy and dense and still contain some water.|
-|||| brush the dried beetroots with a neutral oil. This gives it more fattiness and preserves it even better|
-|||| For plating slice them up as thin as possible and enjoy the texture and the saltiness of it.|
+|||| Add the pieces to a jar and pour the brine over it. Make sure every beetroot is covered with the brine. Leave it in the fridge for at least 2 days. It will stay fresh for multiple days to a week afterwards.|
+|||| After the curing process, take them out of the liquid and put them in a box for smoking. I use cold smoking with a smoking gun. It's easier and I can do it on the balcony of my appartment without creating a fire hazard. After that, put them back in the fridge and keep them covered so they don't dry out too much.|
+|||| When you want to serve them, put them out of the fridge and brush each slice with some oil. serve them cool and enjoy this treat :) | 
