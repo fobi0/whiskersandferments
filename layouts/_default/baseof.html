@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+    <link rel="stylesheet" href="{{ "styles.css" | relURL }}">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <div class="header-content">
+                <h1 class="site-title">
+                    <span class="title-line">{{ .Site.Title }}</span>
+                    <span class="subtitle">~ {{ if .IsHome }}{{ .Site.Params.subtitle }}{{ else if eq .Section "blog" }}Blog{{ else if eq .Section "about" }}About{{ else }}{{ .Title }}{{ end }} ~</span>
+                </h1>
+                <nav class="nav">
+                    <a href="{{ "" | relURL }}" class="nav-link {{ if .IsHome }}active{{ end }}">🏠 Home</a>
+                    <a href="{{ "blog" | relURL }}" class="nav-link {{ if hasPrefix .RelPermalink "/blog" }}active{{ end }}">📝 Blog</a>
+                    <a href="{{ "about" | relURL }}" class="nav-link {{ if hasPrefix .RelPermalink "/about" }}active{{ end }}">🐕 About</a>
+                    <a href="{{ "privacy" | relURL }}" class="nav-link {{ if hasPrefix .RelPermalink "/privacy" }}active{{ end }}">Privacy</a>
+                </nav>
+            </div>
+        </header>
+
+        <main class="main">
+            {{- block "main" . }}{{- end }}
+        </main>
+
+        <footer class="footer">
+            <p>© 2026 | Made with ❤️</p>
+            <p class="tiny">fcknzs</p>
+        </footer>
+    </div>
+</body>
+</html>

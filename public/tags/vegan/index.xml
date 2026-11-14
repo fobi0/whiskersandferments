@@ -1,1 +1,91 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>vegan on Whiskers and Ferments</title><link>www.whiskersandferments.com/tags/vegan/</link><description>Recent content in vegan on Whiskers and Ferments</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 23 Aug 2023 10:38:29 +0200</lastBuildDate><atom:link href="www.whiskersandferments.com/tags/vegan/index.xml" rel="self" type="application/rss+xml"/><item><title>Biang Biang Noodles</title><link>www.whiskersandferments.com/posts/biang-biang-noodles/</link><pubDate>Wed, 23 Aug 2023 10:38:29 +0200</pubDate><guid>www.whiskersandferments.com/posts/biang-biang-noodles/</guid><description>This recipe was always something I wanted to try out but it looks so complex to hand-pull noodles. I imagined ending up with a sticky ball of strings that you can chew on but it is surprisingly easy. The important part is to let it rest for a few hours. Good thing here: it lasts at least 3-4 days in the fridge so you can make them way ahead and the actual time to serve with a ready dough is 15-20min.</description></item><item><title>Vegan Bolognese</title><link>www.whiskersandferments.com/posts/vegetarian-bolognese/</link><pubDate>Wed, 23 Aug 2023 10:38:29 +0200</pubDate><guid>www.whiskersandferments.com/posts/vegetarian-bolognese/</guid><description>We are starting up with one of my all time favourites: Vegan Bolognese. It is not comparable to an actual one but it resembles a lot of the textures and flavours pretty well and it is a good, quick and easy option to make Spaghetti or Lasagna. It is also way quicker than actual Bolognese, since there is no Meat to add to the flavor profile. Soy sauce and Red wine together with the mushrooms still adding a lot of depth to the dish and helping to give you the umami flavor that you need for a good bolognese.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vegan on whiskers &amp; ferments</title>
+    <link>http://localhost:1313/tags/vegan/</link>
+    <description>Recent content in vegan on whiskers &amp; ferments</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/vegan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Red Sauerkraut</title>
+      <link>http://localhost:1313/blog/red-sauerkraut/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/red-sauerkraut/</guid>
+      <description>Hey :) we are back with something fermented (for a website with &amp;ldquo;ferment&amp;rdquo; in the name, there&amp;rsquo;s not as much as expected, right?). This time, we are making a super simple ferment, but to this day, it&amp;rsquo;s one of my all-time favorites. Living in Germany, you kinda grow up with sauerkraut, but nobody ever served me sauerkraut made from red cabbage. It&amp;rsquo;s way sweeter, has a more interesting flavor profile, and can be adjusted to your needs.</description>
+    </item>
+    
+    <item>
+      <title>Smoked yellow beet &#39;salmon&#39;</title>
+      <link>http://localhost:1313/blog/beet-salmon/</link>
+      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/beet-salmon/</guid>
+      <description>We already had beetroot sashimi in an earlier post. This time we are using yellow beets and marinating them a little differently. This is not a replacement for classic smoked salmon, but it gives a perfect alternative that stands on its own, without imitating the flavor of fish, but giving a smoky, filling, and absolutely delicious option for salads, sandwiches, bagels, or the next vegan brunch.
+   Ingredient Amount Example Step     Yellow beet 100% 500g Brush some oil on it and bake it in the oven for around 45 min at 180°C.</description>
+    </item>
+    
+    <item>
+      <title>Cornribs with homemade Barbecue sauce</title>
+      <link>http://localhost:1313/blog/cornribs/</link>
+      <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/cornribs/</guid>
+      <description>It&amp;rsquo;s corn! And it&amp;rsquo;s also corn season! So let&amp;rsquo;s make some barbecue ribs from it and enjoy them while summer slowly runs out. I love this recipe because it does what I want from a vegan adaptation of a dish: it gives the same feeling, the same fun, and the same mess while eating as the original, but it&amp;rsquo;s still a unique and special dish that doesn&amp;rsquo;t try to be meat but just stands on its own.</description>
+    </item>
+    
+    <item>
+      <title>Vegan coffee demi-glace</title>
+      <link>http://localhost:1313/blog/vegan-demi-glance/</link>
+      <pubDate>Sat, 02 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/vegan-demi-glance/</guid>
+      <description>Based on a recipe from the wonderful book &amp;ldquo;The Art of Food Pairing&amp;rdquo;, I developed a simpler, yet delicious recipe for vegan demi-glance. You can use it on roasts, grilled vegetables, or pair it with tomatoes. It can be prepared in advance, held in a squeeze bottle, and reheated right before dinner.
+This is a lighter sauce; you can thicken it by adding a little more tomato purée or a small amount of flour to bind it.</description>
+    </item>
+    
+    <item>
+      <title>Beetroot sashimi</title>
+      <link>http://localhost:1313/blog/beetroot-sashimi/</link>
+      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/beetroot-sashimi/</guid>
+      <description>This sashimi is made from beetroot. It has an incredibly long shelf life, a texture that is really meaty and chewy, and it tastes amazing. I use it in multiple setups:
+ Of course as an addition or replacement for fish in sashimi or sushi. It has a similar texture to raw tuna and is therefore a perfect match for your next vegan sushi party. As carpaccio or tartare, it works perfectly as a replacement for beef.</description>
+    </item>
+    
+    <item>
+      <title>Cashew Baklava with Dandelion Honey</title>
+      <link>http://localhost:1313/blog/cashew-baklava/</link>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/cashew-baklava/</guid>
+      <description>Baklava, when well made, is an awesome, crunchy, and satisfying experience. This recipe is pretty close to original baklava. I just needed something more fresh for the last course of this meal and decided to go with cashews, dandelion honey, and some lemon juice to brighten up the flavor. Of course, we are also making the dandelion honey ourselves.
+This recipe is for a small tray of baklava (20x15 cm).</description>
+    </item>
+    
+    <item>
+      <title>Biang Biang Noodles</title>
+      <link>http://localhost:1313/blog/biang-biang-noodles/</link>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/biang-biang-noodles/</guid>
+      <description>This recipe was always something I wanted to try, but it looks so complex to hand-pull noodles. I imagined ending up with a sticky ball of strings that you can chew on, but it is surprisingly easy. The important part is to let it rest for a few hours. Good thing: it lasts at least 3-4 days in the fridge, so you can make the dough way ahead, and the actual time to serve with ready dough is 15-20 min.</description>
+    </item>
+    
+    <item>
+      <title>Vegan Bolognese</title>
+      <link>http://localhost:1313/blog/vegetarian-bolognese/</link>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/vegetarian-bolognese/</guid>
+      <description>We are starting with one of my all-time favorites: vegan bolognese. It is not comparable to an actual bolognese, but it resembles many of the textures and flavors quite well and is a good, quick, and easy option for making spaghetti or lasagna. It&amp;rsquo;s also much quicker than actual bolognese since there&amp;rsquo;s no meat to add to the flavor profile. Soy sauce and red wine, together with mushrooms, still add a lot of depth to the dish and help give you the umami flavor needed for a good bolognese.</description>
+    </item>
+    
+  </channel>
+</rss>

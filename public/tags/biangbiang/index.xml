@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>biangbiang on Whiskers and Ferments</title><link>www.whiskersandferments.com/tags/biangbiang/</link><description>Recent content in biangbiang on Whiskers and Ferments</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 23 Aug 2023 10:38:29 +0200</lastBuildDate><atom:link href="www.whiskersandferments.com/tags/biangbiang/index.xml" rel="self" type="application/rss+xml"/><item><title>Biang Biang Noodles</title><link>www.whiskersandferments.com/posts/biang-biang-noodles/</link><pubDate>Wed, 23 Aug 2023 10:38:29 +0200</pubDate><guid>www.whiskersandferments.com/posts/biang-biang-noodles/</guid><description>This recipe was always something I wanted to try out but it looks so complex to hand-pull noodles. I imagined ending up with a sticky ball of strings that you can chew on but it is surprisingly easy. The important part is to let it rest for a few hours. Good thing here: it lasts at least 3-4 days in the fridge so you can make them way ahead and the actual time to serve with a ready dough is 15-20min.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>biangbiang on whiskers &amp; ferments</title>
+    <link>http://localhost:1313/tags/biangbiang/</link>
+    <description>Recent content in biangbiang on whiskers &amp; ferments</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Aug 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/biangbiang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Biang Biang Noodles</title>
+      <link>http://localhost:1313/blog/biang-biang-noodles/</link>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/biang-biang-noodles/</guid>
+      <description>This recipe was always something I wanted to try, but it looks so complex to hand-pull noodles. I imagined ending up with a sticky ball of strings that you can chew on, but it is surprisingly easy. The important part is to let it rest for a few hours. Good thing: it lasts at least 3-4 days in the fridge, so you can make the dough way ahead, and the actual time to serve with ready dough is 15-20 min.</description>
+    </item>
+    
+  </channel>
+</rss>

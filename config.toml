@@ -1,0 +1,16 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "whiskers & ferments"
+
+# Site parameters
+[params]
+  subtitle = "Food, Fermentation, Brewing"
+
+# Markdown rendering
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+# Disable some Hugo defaults we don't need
+disableKinds = ["RSS", "sitemap", "robotsTXT", "404"]

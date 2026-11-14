@@ -1,0 +1,28 @@
+{{ define "main" }}
+    <section class="section">
+        <h2 class="section-title">📚 All Posts</h2>
+        <div class="blog-index">
+            {{ range .RegularPages.ByDate.Reverse }}
+            {{ $page := . }}
+            <article class="post-preview">
+                {{ with .Params.image }}
+                {{ $imgName := . }}
+                {{ $resource := where $page.Resources "Name" $imgName }}
+                {{ if $resource }}
+                <div class="post-image">
+                    <img src="{{ (index $resource 0).RelPermalink }}" alt="{{ $page.Title }}">
+                </div>
+                {{ else }}
+                <div class="post-image">
+                    <img src="/images/{{ $imgName }}" alt="{{ $page.Title }}">
+                </div>
+                {{ end }}
+                {{ end }}
+                <span class="post-date">{{ $page.Date.Format "01.02.2006" }}</span>
+                <h3 class="post-title"><a href="{{ $page.RelPermalink }}">{{ $page.Title }}</a></h3>
+                <a href="{{ $page.RelPermalink }}" class="read-more">→ Read more</a>
+            </article>
+            {{ end }}
+        </div>
+    </section>
+{{ end }}

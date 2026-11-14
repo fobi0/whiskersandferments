@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>baklava on whiskers &amp; ferments</title>
+    <link>http://localhost:1313/tags/baklava/</link>
+    <description>Recent content in baklava on whiskers &amp; ferments</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Aug 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/baklava/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cashew Baklava with Dandelion Honey</title>
+      <link>http://localhost:1313/blog/cashew-baklava/</link>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/cashew-baklava/</guid>
+      <description>Baklava, when well made, is an awesome, crunchy, and satisfying experience. This recipe is pretty close to original baklava. I just needed something more fresh for the last course of this meal and decided to go with cashews, dandelion honey, and some lemon juice to brighten up the flavor. Of course, we are also making the dandelion honey ourselves.
+This recipe is for a small tray of baklava (20x15 cm).</description>
+    </item>
+    
+  </channel>
+</rss>

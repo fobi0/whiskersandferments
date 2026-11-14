@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>carpaccio on whiskers &amp; ferments</title>
+    <link>http://localhost:1313/tags/carpaccio/</link>
+    <description>Recent content in carpaccio on whiskers &amp; ferments</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Aug 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/carpaccio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Beetroot sashimi</title>
+      <link>http://localhost:1313/blog/beetroot-sashimi/</link>
+      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/beetroot-sashimi/</guid>
+      <description>This sashimi is made from beetroot. It has an incredibly long shelf life, a texture that is really meaty and chewy, and it tastes amazing. I use it in multiple setups:
+ Of course as an addition or replacement for fish in sashimi or sushi. It has a similar texture to raw tuna and is therefore a perfect match for your next vegan sushi party. As carpaccio or tartare, it works perfectly as a replacement for beef.</description>
+    </item>
+    
+  </channel>
+</rss>

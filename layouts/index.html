@@ -1,0 +1,49 @@
+{{ define "main" }}
+    <section class="hero">
+        <div class="hero-content">
+            <p class="hero-text">
+                Welcome to my cozy corner of the internet!<br>
+                This is where fermentation, flavor, and the occasional<br>
+                other hyperfixations of mine. <br> I am passionate about everything food and drink related. <br>
+                in the past, I have successfully made Koji, various ferments, I owned a Kombucha, keeping my sourdough starter alive for 7 years now
+                and focus on old and new techniques of cooking. <br>
+                For me, cooking is relaxing, exiting and fascinating at once. I jump into every rabbithole I can find and testing out various things. <br>
+                Canning, Fermenting, Drying and other preserving options are something I just do for fun. Working with local ingredients and going with the seasons became a part of my daily live, that I don't want to miss anymore.
+                <br> I am not a professional or anything, but I am having a ton of fun and want to share the things I have learned for friends, family, others and also myself to remember. <br>
+                Enjoy your stay!
+            </p>
+            <div class="doggo-ascii">
+                <pre>(˶ᵔ ᵕ ᵔ˶)<br>  ✧  🐾</pre>
+            </div>
+        </div>
+    </section>
+
+    <section class="section">
+        <h2 class="section-title">📰 Latest Posts</h2>
+        <div class="posts-list">
+            {{ range .Site.RegularPages.ByDate.Reverse }}
+                {{ if eq .Section "blog" }}
+                {{ $page := . }}
+                <article class="post-preview">
+                    {{ with .Params.image }}
+                    {{ $imgName := . }}
+                    {{ $resource := where $page.Resources "Name" $imgName }}
+                    {{ if $resource }}
+                    <div class="post-image">
+                        <img src="{{ (index $resource 0).RelPermalink }}" alt="{{ $page.Title }}">
+                    </div>
+                    {{ else }}
+                    <div class="post-image">
+                        <img src="/images/{{ $imgName }}" alt="{{ $page.Title }}">
+                    </div>
+                    {{ end }}
+                    {{ end }}
+                    <span class="post-date">{{ $page.Date.Format "01.02.2006" }}</span>
+                    <h3 class="post-title"><a href="{{ $page.RelPermalink }}">{{ $page.Title }}</a></h3>
+                    <a href="{{ $page.RelPermalink }}" class="read-more">→ Read more</a>
+                </article>
+                {{ end }}
+            {{ end }}
+        </div>
+    </section>
+{{ end }}

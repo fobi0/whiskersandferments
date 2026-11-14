@@ -1,1 +1,279 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>www.whiskersandferments.com/posts/biang-biang-noodles/</loc><lastmod>2023-08-23T10:38:29+02:00</lastmod></url><url><loc>www.whiskersandferments.com/tags/biangbiang/</loc><lastmod>2023-08-23T10:38:29+02:00</lastmod></url><url><loc>www.whiskersandferments.com/tags/bolognese/</loc><lastmod>2023-08-23T10:38:29+02:00</lastmod></url><url><loc>www.whiskersandferments.com/tags/chinese/</loc><lastmod>2023-08-23T10:38:29+02:00</lastmod></url><url><loc>www.whiskersandferments.com/tags/food/</loc><lastmod>2023-08-23T10:38:29+02:00</lastmod></url><url><loc>www.whiskersandferments.com/tags/italian/</loc><lastmod>2023-08-23T10:38:29+02:00</lastmod></url><url><loc>www.whiskersandferments.com/posts/</loc><lastmod>2023-08-23T10:38:29+02:00</lastmod></url><url><loc>www.whiskersandferments.com/tags/</loc><lastmod>2023-08-23T10:38:29+02:00</lastmod></url><url><loc>www.whiskersandferments.com/tags/vegan/</loc><lastmod>2023-08-23T10:38:29+02:00</lastmod></url><url><loc>www.whiskersandferments.com/posts/vegetarian-bolognese/</loc><lastmod>2023-08-23T10:38:29+02:00</lastmod></url><url><loc>www.whiskersandferments.com/tags/vegetarian/</loc><lastmod>2023-08-23T10:38:29+02:00</lastmod></url><url><loc>www.whiskersandferments.com/</loc><lastmod>2023-08-23T10:38:29+02:00</lastmod></url><url><loc>www.whiskersandferments.com/tags/announcement/</loc><lastmod>2023-08-22T23:30:29+02:00</lastmod></url><url><loc>www.whiskersandferments.com/contact/</loc><lastmod>2023-08-22T23:30:29+02:00</lastmod></url><url><loc>www.whiskersandferments.com/tags/ferment/</loc><lastmod>2023-08-22T23:30:29+02:00</lastmod></url><url><loc>www.whiskersandferments.com/posts/init-post/</loc><lastmod>2023-08-22T23:30:29+02:00</lastmod></url><url><loc>www.whiskersandferments.com/tags/hi/</loc><lastmod>2023-08-22T23:30:29+02:00</lastmod></url><url><loc>www.whiskersandferments.com/about/</loc><lastmod>2023-08-22T23:30:29+02:00</lastmod></url><url><loc>www.whiskersandferments.com/privacy/</loc><lastmod>2023-08-22T23:30:29+02:00</lastmod></url><url><loc>www.whiskersandferments.com/tags/update/</loc><lastmod>2023-08-22T23:30:29+02:00</lastmod></url><url><loc>www.whiskersandferments.com/categories/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2026-11-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/datenschutz/</loc>
+    <lastmod>2026-11-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2026-11-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-11-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/ferment/</loc>
+    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/food/</loc>
+    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/red-cabbage/</loc>
+    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/blog/red-sauerkraut/</loc>
+    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/salad/</loc>
+    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/sauerkraut/</loc>
+    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/vegan/</loc>
+    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/vegetarian/</loc>
+    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/beet/</loc>
+    <lastmod>2023-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/cured/</loc>
+    <lastmod>2023-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/salmon/</loc>
+    <lastmod>2023-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/sashimi/</loc>
+    <lastmod>2023-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/blog/beet-salmon/</loc>
+    <lastmod>2023-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/sushi/</loc>
+    <lastmod>2023-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/barbecue/</loc>
+    <lastmod>2023-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/bbq/</loc>
+    <lastmod>2023-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/corn/</loc>
+    <lastmod>2023-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/blog/cornribs/</loc>
+    <lastmod>2023-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/grill/</loc>
+    <lastmod>2023-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/mais/</loc>
+    <lastmod>2023-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/ribs/</loc>
+    <lastmod>2023-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/sauce/</loc>
+    <lastmod>2023-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/coffee/</loc>
+    <lastmod>2023-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/demi-glace/</loc>
+    <lastmod>2023-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/roast/</loc>
+    <lastmod>2023-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/blog/vegan-demi-glance/</loc>
+    <lastmod>2023-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/beetroot/</loc>
+    <lastmod>2023-08-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/blog/beetroot-sashimi/</loc>
+    <lastmod>2023-08-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/carpaccio/</loc>
+    <lastmod>2023-08-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/tartar/</loc>
+    <lastmod>2023-08-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/gochujang/</loc>
+    <lastmod>2023-08-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/pork/</loc>
+    <lastmod>2023-08-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/pork-belly/</loc>
+    <lastmod>2023-08-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/blog/radish-porkbelly-gochuchang-skewer/</loc>
+    <lastmod>2023-08-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/radish/</loc>
+    <lastmod>2023-08-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/skewers/</loc>
+    <lastmod>2023-08-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/baklava/</loc>
+    <lastmod>2023-08-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/blog/cashew-baklava/</loc>
+    <lastmod>2023-08-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/dandelion/</loc>
+    <lastmod>2023-08-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/blog/biang-biang-noodles/</loc>
+    <lastmod>2023-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/biangbiang/</loc>
+    <lastmod>2023-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/bolognese/</loc>
+    <lastmod>2023-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/chinese/</loc>
+    <lastmod>2023-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/italian/</loc>
+    <lastmod>2023-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/blog/vegetarian-bolognese/</loc>
+    <lastmod>2023-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/announcement/</loc>
+    <lastmod>2023-08-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/blog/hello-world/</loc>
+    <lastmod>2023-08-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/hi/</loc>
+    <lastmod>2023-08-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/update/</loc>
+    <lastmod>2023-08-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url>
+  
+</urlset>

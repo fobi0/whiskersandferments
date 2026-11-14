@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gochujang on whiskers &amp; ferments</title>
+    <link>http://localhost:1313/tags/gochujang/</link>
+    <description>Recent content in gochujang on whiskers &amp; ferments</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Aug 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/gochujang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pork Belly Radish Skewers</title>
+      <link>http://localhost:1313/blog/radish-porkbelly-gochuchang-skewer/</link>
+      <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/radish-porkbelly-gochuchang-skewer/</guid>
+      <description>I am a big fan of skewers. They&amp;rsquo;re easy to make, fun to eat, and almost every food culture in the world has some kind of skewer dish. This combination is one of my favorites. The fat of the pork belly combined with the crunchy radish and the gochujang is just too tasty not to try.
+You can either grill them over direct heat or put them in the oven on broil mode.</description>
+    </item>
+    
+  </channel>
+</rss>

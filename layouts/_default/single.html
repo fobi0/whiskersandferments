@@ -1,0 +1,55 @@
+{{ define "main" }}
+    {{ if eq .Section "blog" }}
+        <article class="blog-content">
+            <div class="blog-header">
+                <h1 class="blog-title">{{ .Title }}</h1>
+                <p class="blog-date">{{ .Date.Format "01.02.2006" }}</p>
+            </div>
+
+            {{/* Featured image support */}}
+            {{ $page := . }}
+            {{ with .Params.image }}
+            {{ $imgName := . }}
+            {{/* Try to find image as page resource */}}
+            {{ $resource := where $page.Resources "Name" $imgName }}
+            {{ if $resource }}
+            <div class="blog-image">
+                <img src="{{ (index $resource 0).RelPermalink }}" alt="{{ $page.Title }}">
+            </div>
+            {{ else }}
+            {{/* Fall back to static images */}}
+            <div class="blog-image">
+                <img src="/{{ $imgName }}" alt="{{ $page.Title }}">
+            </div>
+            {{ end }}
+            {{ end }}
+
+            {{ .Content }}
+
+            <p>
+                <a href="{{ "blog" | relURL }}" class="blog-back-link">← Back to all posts</a>
+            </p>
+        </article>
+    {{ else }}
+        <div class="about-content">
+            {{/* Featured image support for about page */}}
+            {{ $page := . }}
+            {{ with .Params.image }}
+            {{ $imgName := . }}
+            {{/* Try to find image as page resource */}}
+            {{ $resource := where $page.Resources "Name" $imgName }}
+            {{ if $resource }}
+            <div class="about-image">
+                <img src="{{ (index $resource 0).RelPermalink }}" alt="{{ $page.Title }}">
+            </div>
+            {{ else }}
+            {{/* Fall back to static images */}}
+            <div class="about-image">
+                <img src="/{{ $imgName }}" alt="{{ $page.Title }}">
+            </div>
+            {{ end }}
+            {{ end }}
+            {{ .Content }}
+        </div>
+    {{ end }}
+{{ end }}

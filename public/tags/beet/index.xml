@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>beet on whiskers &amp; ferments</title>
+    <link>http://localhost:1313/tags/beet/</link>
+    <description>Recent content in beet on whiskers &amp; ferments</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Oct 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/beet/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Smoked yellow beet &#39;salmon&#39;</title>
+      <link>http://localhost:1313/blog/beet-salmon/</link>
+      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/beet-salmon/</guid>
+      <description>We already had beetroot sashimi in an earlier post. This time we are using yellow beets and marinating them a little differently. This is not a replacement for classic smoked salmon, but it gives a perfect alternative that stands on its own, without imitating the flavor of fish, but giving a smoky, filling, and absolutely delicious option for salads, sandwiches, bagels, or the next vegan brunch.
+   Ingredient Amount Example Step     Yellow beet 100% 500g Brush some oil on it and bake it in the oven for around 45 min at 180°C.</description>
+    </item>
+    
+  </channel>
+</rss>

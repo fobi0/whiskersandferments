@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>salad on whiskers &amp; ferments</title>
+    <link>http://localhost:1313/tags/salad/</link>
+    <description>Recent content in salad on whiskers &amp; ferments</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/salad/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Red Sauerkraut</title>
+      <link>http://localhost:1313/blog/red-sauerkraut/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/red-sauerkraut/</guid>
+      <description>Hey :) we are back with something fermented (for a website with &amp;ldquo;ferment&amp;rdquo; in the name, there&amp;rsquo;s not as much as expected, right?). This time, we are making a super simple ferment, but to this day, it&amp;rsquo;s one of my all-time favorites. Living in Germany, you kinda grow up with sauerkraut, but nobody ever served me sauerkraut made from red cabbage. It&amp;rsquo;s way sweeter, has a more interesting flavor profile, and can be adjusted to your needs.</description>
+    </item>
+    
+  </channel>
+</rss>

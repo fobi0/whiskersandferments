@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mais on whiskers &amp; ferments</title>
+    <link>http://localhost:1313/tags/mais/</link>
+    <description>Recent content in mais on whiskers &amp; ferments</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Sep 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/mais/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cornribs with homemade Barbecue sauce</title>
+      <link>http://localhost:1313/blog/cornribs/</link>
+      <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/cornribs/</guid>
+      <description>It&amp;rsquo;s corn! And it&amp;rsquo;s also corn season! So let&amp;rsquo;s make some barbecue ribs from it and enjoy them while summer slowly runs out. I love this recipe because it does what I want from a vegan adaptation of a dish: it gives the same feeling, the same fun, and the same mess while eating as the original, but it&amp;rsquo;s still a unique and special dish that doesn&amp;rsquo;t try to be meat but just stands on its own.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>roast on whiskers &amp; ferments</title>
+    <link>http://localhost:1313/tags/roast/</link>
+    <description>Recent content in roast on whiskers &amp; ferments</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Sep 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/roast/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Vegan coffee demi-glace</title>
+      <link>http://localhost:1313/blog/vegan-demi-glance/</link>
+      <pubDate>Sat, 02 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/vegan-demi-glance/</guid>
+      <description>Based on a recipe from the wonderful book &amp;ldquo;The Art of Food Pairing&amp;rdquo;, I developed a simpler, yet delicious recipe for vegan demi-glance. You can use it on roasts, grilled vegetables, or pair it with tomatoes. It can be prepared in advance, held in a squeeze bottle, and reheated right before dinner.
+This is a lighter sauce; you can thicken it by adding a little more tomato purée or a small amount of flour to bind it.</description>
+    </item>
+    
+  </channel>
+</rss>
