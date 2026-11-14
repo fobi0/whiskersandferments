@@ -1,11 +1,9 @@
 ---
-title: "About"
+title: "Privacy"
 date: 2026-11-13
 ---
 
-# Privacy
-
-## Privacy notice
+# Privacy notice
 
 Last updated: November 2026
 
